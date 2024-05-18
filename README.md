@@ -1,3 +1,3 @@
 # demo
-This is my first Git repository
-author :chetan Morankar
+This is my first Git repository 
+Author : Chetan Vinayak Morankar
